@@ -8,7 +8,7 @@ David Alejandro Miranda Mercado (2023). davidalejandromiranda/fedsa_public: Expl
 
 ## DOI
 
-[![DOI](https://zenodo.org/badge/669695092.svg)](https://zenodo.org/badge/latestdoi/669695092)
+[![DOI](https://zenodo.org/badge/)](https://zenodo.org/badge/latestdoi/)
 
 ## BibTeX
 
