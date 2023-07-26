@@ -3,8 +3,8 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Miranda-Mercado
     given-names: David Alejandro
-    orcid: https://orcid.org/0000-0003-3130-3314
-title: davidalejandromiranda/fedsa_public: Exploring the breast cancer risk detection by dynamic light scattering
+    orcid: "https://orcid.org/0000-0003-3130-3314"
+title: "davidalejandromiranda/fedsa_public: Exploring the breast cancer risk detection by dynamic light scattering"
 version: v1.0
 doi: 10.5281/zenodo.
-date-released: 2023-07-24
+date-released: 2023-07-26
