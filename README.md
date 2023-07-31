@@ -4,11 +4,11 @@ This project showcases the data processing techniques employed in Field Effect D
 
 ## How to cite this work?
 
-David Alejandro Miranda Mercado (2023). davidalejandromiranda/fedsa_public: Exploring the breast cancer risk detection by dynamic light scattering (v1.0). Zenodo. [https://doi.org/](https://doi.org/)
+David Alejandro Miranda Mercado (2023). davidalejandromiranda/fedsa_public: Exploring the breast cancer risk detection by dynamic light scattering (v1.0). Zenodo. [https://doi.org/](https://doi.org/10.5281/zenodo.8200226)
 
 ## DOI
 
-[![DOI](https://zenodo.org/badge/)](https://zenodo.org/badge/latestdoi/)
+[![DOI](https://zenodo.org/badge/668259331.svg)](https://zenodo.org/badge/latestdoi/668259331)
 
 ## BibTeX
 
@@ -21,7 +21,7 @@ David Alejandro Miranda Mercado (2023). davidalejandromiranda/fedsa_public: Expl
   publisher    = {Zenodo},
   version      = {v1.0},
   doi          = {},
-  url          = {[https://doi.org/](https://doi.org/)}
+  url          = {[https://doi.org/10.5281/zenodo.8200226](https://doi.org/10.5281/zenodo.8200226)}
 }
 ```
 
